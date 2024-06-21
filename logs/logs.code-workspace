@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../.git"
+		},
+		{
+			"path": "../.github"
+		},
+		{
+			"path": "../config"
+		},
+		{
+			"path": "../research"
+		},
+		{
+			"path": "../src"
+		}
+	]
+}
